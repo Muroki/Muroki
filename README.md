@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Database Systems and Blockchain
 - 🌱 I’m currently learning Flask, Django and Smart Contracts Development
 - 💞️ I’m looking to collaborate on Blockchain Development
-- 📫 How to reach me jowi.mungai@gmail.com
+- 📫 How to reach me murokijoe@gmail.com
 
 <!---
 Muroki/Muroki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
