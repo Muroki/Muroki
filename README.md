@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muroki
+- 👋 Hi, I’m @JMungai
 - 👀 I’m interested in Python, Database Systems and Blockchain
 - 🌱 I’m currently learning Flask, Django and Smart Contracts Development
 - 💞️ I’m looking to collaborate on Blockchain Development
